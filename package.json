@@ -1,0 +1,26 @@
+{
+  "name": "typecho-core",
+  "version": "1.121.10",
+  "description": "An element-drived engine working well with XHR-intensive front-end. Originally designed for Typecho.",
+  "main": "build/typechoCore.js",
+  "scripts": {
+    "test": "echo \"No test specified.Now ready to quit.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saammaa/typechoCore.git"
+  },
+  "keywords": [
+    "typecho",
+    "pjax",
+    "blog",
+    "front-end",
+    "xhr"
+  ],
+  "author": "Saammaa, CuanKi-Raemon, Fitz Gerald, mmSD",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Saammaa/typechoCore/issues"
+  },
+  "homepage": "https://github.com/Saammaa/typechoCore#readme"
+}
